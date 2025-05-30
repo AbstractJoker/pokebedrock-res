@@ -578,7 +578,7 @@ export const PokemonCustomizations: Partial<{
   garchompmega: {
     genderDifferences: ["texture"],
     skins: {
-      halloween: ["model", "texture"],
+      halloween: ["model", "texture", "shiny_texture"],
     },
   },
 
