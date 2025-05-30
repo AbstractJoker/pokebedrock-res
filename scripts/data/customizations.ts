@@ -560,19 +560,19 @@ export const PokemonCustomizations: Partial<{
   gible: {
     genderDifferences: ["texture"],
     skins: {
-      halloween: ["model", "texture"],
+      halloween: ["model", "texture", "shiny_texture"],
     },
   },
   gabite: {
     genderDifferences: ["texture"],
     skins: {
-      halloween: ["model", "texture"],
+      halloween: ["model", "texture", "shiny_texture"],
     },
   },
   garchomp: {
     genderDifferences: ["texture"],
     skins: {
-      halloween: ["model", "texture"],
+      halloween: ["model", "texture", "shiny_texture"],
     },
   },
   garchompmega: {
